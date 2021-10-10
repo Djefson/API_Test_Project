@@ -1,6 +1,6 @@
 # API_Test_Project
 
-### `Run C#.NetCore start`
+### `Run C#.NetCore `
 -Open the solution in visual studio 2019
 -Initialise migrations
 -Update database
